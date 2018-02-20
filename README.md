@@ -39,8 +39,12 @@ Q - What characteristic should a system have to be Cloud Ready?
 A - 
 
   Relocatable
+
   Failure Tolerant
+
   Frugal
+
   Introspectable
+
   Seamlessly updatable
 
